@@ -1,0 +1,13 @@
+
+Psudo code:- Github add repository 
+step1:- install git
+step2:- create repository on (github account (loginid/password))
+step3:- create a new folder on dirctory put your all coding file in that folder
+step4:- run cmd and go to your folder and coding file directory
+step5:- run command :- git init
+step6:- next run command :- git add -A (enter)
+step7:-next run command :- git commit -m "write a message "(enter)
+step8:-next run command :- git remote add origin "paste your repository link(eg.https://github.com/imdevanand07/amazingAdmin.git)"(enter)
+step9:-next run command :- git push -u origin master(enter and again login to github).
+step10:-next refresh your github repository.
+step11: enjoy coding :-)
